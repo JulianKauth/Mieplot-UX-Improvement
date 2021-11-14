@@ -1,6 +1,6 @@
 # Mieplot-UX-Improvement
 
-In order to improve the usability of the Mie Plot on saviot.cnrs.fr/mie I created this addon, which simply adds two sliders. This allows the user to easily sweep through different sizes of particles and different values for the index of refraction of the surrounding medium.
+In order to improve the usability of the Mie Plot on [saviot.cnrs.fr/mie](https://saviot.cnrs.fr/mie/index.en.html) I created this addon, which simply adds two sliders. This allows the user to easily sweep through different sizes of particles and different values for the index of refraction of the surrounding medium.
 
 ## Install
 
