@@ -2,6 +2,10 @@
 
 In order to improve the usability of the Mie Plot on [saviot.cnrs.fr/mie](https://saviot.cnrs.fr/mie/index.en.html) and [saviot.cnrs.fr/miecoat](https://saviot.cnrs.fr/miecoat/index.en.html) I created this addon, which simply adds a few sliders. This allows the user to easily sweep through different sizes of particles, core and shell thicknesses and different values for the index of refraction of the surrounding medium.
 
+## Update April 2022
+
+This addon has been superseded by a native implementation on the website. Thank you to Lucien Saviot for adding this functionality.
+
 ## Install
 
 I only created a proper addon for Firefox. You can install the Addon from the releases page [here on Github](https://github.com/JulianKauth/Mieplot-UX-Improvement/releases/tag/v1.4), or via the [mozilla addon site](https://addons.mozilla.org/de/firefox/addon/better-ux-for-saviot-cnrs-fr/).
